@@ -93,7 +93,7 @@ youtube-thumbnail-agent/
 ## 1. Clone Repository
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/PriyankaNeogi/langgraph-youtube-agent
 cd youtube-thumbnail-agent
 ```
 
