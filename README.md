@@ -201,10 +201,14 @@ OR
 # Example Flow
 
 Iteration 1:
-- rating: 7
+- rating: 6
 - critique generated
 
 Iteration 2:
+- rating: 7
+- critique generated
+
+Iteration 3:
 - improved prompt
 - new thumbnail generated
 - rating: 8
