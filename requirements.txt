@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+openai
+tavily-python
+python-dotenv
+pydantic
+requests
+pillow
+grandalf
+matplotlib
