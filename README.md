@@ -169,6 +169,7 @@ Each run contains:
 
 - iter_1.png
 - iter_2.png
+- iter_3.png
 - final.png
 - report.md
 
